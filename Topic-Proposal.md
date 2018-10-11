@@ -6,4 +6,4 @@ I decided to keep the theme of ghost hunting for this next assignment. Ghost hun
 - New technology being invented/used for ghost hunts
 - My own experiences/journey with ghost hunting with additional photos and videos (media)
 
-There is a surprising amount of articles from expert ghost hunters, and I think it's fun to write and talk about something that isn't brought up in normal conversation. This will be kind of a narrative/informative blog (is that a thing?). I'm not trying to persuade anyoe that ghosts are real. This is more for those who are interested in ghost hunting and would like to learn more about it or read about other people's experiences with hunting ghosts. 
+There is a surprising amount of articles from expert ghost hunters, and I think it's fun to write and talk about something that isn't brought up in normal conversation. This will be kind of a narrative/informative blog (is that a thing?). I'm not trying to persuade anyone that ghosts are real. This is more for those who are interested in ghost hunting and would like to learn more about it or read about other people's experiences with hunting ghosts. 
