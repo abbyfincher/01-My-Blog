@@ -30,6 +30,6 @@ A spirit box is something that has the same basic function as an audio recorder 
 
 Insert Picture
 
-#### Why Keep Improving?
+### Why Keep Improving?
 We live in the technology age. There is an entire generation who grew up learning how to use computers and other new technology. The computer generation is the one who keeps inventing new technology. Why not bring the ghost hunting world along? New technology makes it easier for those of us interested in chasing the paranormal to do the job well. It brings the possibility of better evidence and better encounters with the beyond. On the next post, we'll bring you along on a basics-only ghost hunt, which I will explain in that post. This hunt employs few pieces of technology, but without, we may not have gotten the evidence we need to suggest that there are entities out there - even on the College of the Ozarks campus. Stay tuned, ghost hunters, and safe hunting!
 
