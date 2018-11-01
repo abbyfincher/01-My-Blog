@@ -16,7 +16,7 @@ The use of a tape or audio recorder is one of the best methods to capture eviden
 
 ### Results
 
-Click the image for a YouTube video. It will open in a new tab. 
+Click the image for a YouTube video. It will not open in a new tab. 
 
 [![Ghost Hunt](https://github.com/abbyfincher/01-My-Blog/blob/master/IMG_20180910_070208_228.jpg)](https://www.youtube.com/watch?v=0lGKW_-wxrw)
 
