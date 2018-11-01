@@ -14,21 +14,21 @@ This is a typical, present-day, EMF reader. Along with an emitted sound, lights 
 #### Thermal Imaging
 Thermal imaging cameras have become a staple in the ghost hunting arsenal. Since thermal imaging can pick up heat signatures, these cameras are helpful in detecting cold spots. Cold spots are random places in a room that are at a lower temperature than the rest of the surroundings. These spots generally indicate the presence of a ghost or spirit, and thermal imaging cameras can help detect these spots before we, the hunter, run into them. When seeing cold spots through thermal imaging, it looks like a hole in the wall. These cameras can also help see shadow movement, i.e. the cold spot moves along the wall or disappears.
 
-Insert Picture
+![Thermal Imaging](https://images.pcworld.com/news/graphics/209090-infrared-thermal-imaging-camera_slide.jpg)
 
 This image is an example of a cold spot in an otherwise warm space. This is what you would be looking for if using a thermal imaging camera to detect the presence of a ghost.
 
 #### Response Devices
 These are kind of exactly what they sound like. Response devices are used when asking a supposed spirit questions. The spirit can use the response device to answer "yes" or "no." There is typically a green section that lights up for "yes" and a red section for "no." Some are made to make a noise when something comes into contact with it. If this device goes off, you know you have something with you in that dark room.
 
-Insert Picture
+![Flux Response Device](https://www.ghoststop.com/Flux-Ghost-Response-Device-p/motion-flux.htm)
 
-The response device shown is actually programmed to answer more than "yes" or "no" questions. This device can answer questions such as gender, good, bad, one, or many depending on which side (red or green) the spirit interacts with. This response device by Flux is expensive and costs $199.95.  https://www.ghoststop.com/Flux-Ghost-Response-Device-p/motion-flux.htm
+The response device shown is actually programmed to answer more than "yes" or "no" questions. This device can answer questions such as gender, good, bad, one, or many depending on which side (red or green) the spirit interacts with. This response device by Flux is expensive and costs $199.95. 
 
 #### Spirit Box
 A spirit box is something that has the same basic function as an audio recorder but to a much higher and better degree. The spirit box uses radio frequencies to generate white noise which theorists think give some spirits the energy they need to communicate and be heard by the physical world. This is newer to paranormal investigations. Historically, audio recorders or tape recorders were just used and listened back to. The invention of the spirit box could further help the gathering of evidence when ghost hunting.
 
-Insert Picture
+![Spirit Box](https://www.ghoststop.com/Spirit-Box-B-PSB7-EVP-for-ITC-p/evp-psb7.htm)
 
 ### Why Keep Improving?
 We live in the technology age. There is an entire generation who grew up learning how to use computers and other new technology. The computer generation is the one who keeps inventing new technology. Why not bring the ghost hunting world along? New technology makes it easier for those of us interested in chasing the paranormal to do the job well. It brings the possibility of better evidence and better encounters with the beyond. On the next post, we'll bring you along on a basics-only ghost hunt, which I will explain in that post. This hunt employs few pieces of technology, but without, we may not have gotten the evidence we need to suggest that there are entities out there - even on the College of the Ozarks campus. Stay tuned, ghost hunters, and safe hunting!
