@@ -6,7 +6,7 @@ Before we get too far into what is new in the world of ghost hunting technology,
 #### EMF Readers
 These devices have been around for a long time, and are probably the most widely used paranormal instrument. EMF stands for electromagnetic field, and that is exactly what these detect. Ghosts emit electromagnetic fields, which is why these readers come in handy. If there is something a ghost has "come in contact with," the EMF reader will detect that and emit a sound, letting you, the ghost hunter, know there has been activity. EMF readers are also called K-2 readers by some ghost hunters.
 
-INSERT PICTURE
+![EMF Reader](http://cdn3.volusion.com/dqwlp.eewkn/v/vspfiles/photos/EMF-K2-3.jpg)
 
 This is a typical, present-day, EMF reader. Along with an emitted sound, lights at the top of the meter begin to flash, indicating how strong the signal is. When the light on the far left is lit, the signal is weak. If the red light on the far right of the reader is lit, the signal is very strong and there is definitely something going on. Even though this is older technology, it is still one of the most useful pieces of equipment any ghost hunter could carry.
 
